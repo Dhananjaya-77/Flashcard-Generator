@@ -244,5 +244,3 @@ MIT License - Free for personal and educational use
 - **React** team for the framework
 - Open source community for inspiration
 
-
-
